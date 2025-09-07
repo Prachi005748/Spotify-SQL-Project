@@ -139,7 +139,7 @@ CREATE TABLE Spotify (
 ## Author
 [Prachi Paliwal](https://www.linkedin.com/in/saksham-srivastava-343088255/)  
 GitHub: [Prachi Paliwal](https://github.com/Prachi005748)  
-Email: princhukumar123456@gmail.com
+*Gmail*: prachipaliwal745@gmail.com 
 
 ---
 This project serves as an excellent case study for SQL-based **Exploratory Data Analysis (EDA)** and **Data Analysis** with advanced SQL queries. 🚀
